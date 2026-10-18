@@ -1,19 +1,19 @@
-# 🛠️ Carraskits | Conectando Mundos 🌍⚡
+# 🛠️ Carraskits | Connecting Worlds 🌍⚡
 
-¡Hola! Soy **Erick**, creador de contenidos en **Carraskits**. Técnico superior en seguridad, sonido, telecomunicaciones e informática.
+Hi! I'm **Erick**, content creator at **Carraskits**. Higher technician in security systems, sound, telecommunications, and IT.
 
-En mi canal explico proyectos de domótica realista, integraciones locales en **Home Assistant (HAOS)** y un método innovador y propio para crear **Dashboards Fotorrealistas & Responsive en 5 minutos**.
-
----
-
-### 🚀 El Método Definitivo para Dashboards
-- 📸 **Fotografía real en trípode:** Cambios de iluminación en 5 minutos (¡adiós al complejo modelado 3D!).
-- 📱 **Layout Responsive 3-en-1:** Diseñado y optimizado para tablets de pared y móviles.
-- ⚡ **Rendimiento ligero:** Sin lag y con la sencillez visual perfecta.
+On my channel, I explain realistic home automation projects, local integrations in **Home Assistant (HAOS)**, and an innovative, proprietary method to create **Photorealistic & Responsive Dashboards in 5 minutes**.
 
 ---
 
-### 🌐 Mis Redes & Comunidad
+### 🚀 The Ultimate Dashboard Method
+- 📸 **Real tripod photography:** Lighting changes in 5 minutes (say goodbye to complex 3D modeling!).
+- 📱 **3-in-1 Responsive Layout:** Designed and optimized for wall tablets and mobile phones.
+- ⚡ **Lightweight performance:** Zero lag with the perfect visual simplicity.
+
+---
+
+### 🌐 My Networks & Community
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@carraskits)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Carraskits)
@@ -22,7 +22,7 @@ En mi canal explico proyectos de domótica realista, integraciones locales en **
 
 ---
 
-### 📺 Canal de YouTube
-👉 **[Ver tutoriales y guías en YouTube](https://youtube.com/@carraskits)**
+### 📺 YouTube Channel
+👉 **[Watch tutorials and guides on YouTube](https://youtube.com/@carraskits)**
 
-*"🌍 De Planeta Tierra sólo hay uno, pero cada uno vive en su Mundo 🌍"*
+*"🌍 There is only one Planet Earth, but everyone lives in their own World 🌍"*

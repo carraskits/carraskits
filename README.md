@@ -26,3 +26,9 @@ On my channel, I explain realistic home automation projects, local integrations 
 👉 **[Watch tutorials and guides on YouTube](https://youtube.com/@carraskits)**
 
 *"🌍 There is only one Planet Earth, but everyone lives in their own World 🌍"*
+
+---
+
+### 🎥 Real-Time 2-Minute Workflow Demo
+
+👉 **[Watch the full 2-minute setup video on Reddit](https://www.reddit.com/r/homeassistant/s/G740lnIf4x)**

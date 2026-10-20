@@ -6,7 +6,7 @@ On my channel, I explain realistic home automation projects, local integrations 
 
 ---
 
-<p align="center">
+<p> <align="center">
   <img src="demo.gif" alt="Método Carraskits Demo" width="100%" style="border-radius: 10px;">
 </p>
 

@@ -32,3 +32,20 @@ On my channel, I explain realistic home automation projects, local integrations 
 ### 🎥 Real-Time 2-Minute Workflow Demo
 
 👉 **[Watch the full 2-minute setup video on Reddit](https://www.reddit.com/r/homeassistant/s/G740lnIf4x)**
+# 🏠 Home Assistant Photorealistic Dashboard — Método Carraskits
+
+<p align="center">
+  <img src="assets/demo.gif" alt="Carraskits Photorealistic HA Dashboard" width="100%" style="border-radius: 10px;">
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/@carraskits"><img src="https://img.shields.io/badge/YouTube-Carraskits-red?style=for-the-badge&logo=youtube" alt="YouTube"></a>
+  <a href="https://reddit.com/r/homeassistant"><img src="https://img.shields.io/badge/Community-Reddit-orange?style=for-the-badge&logo=reddit" alt="Reddit"></a>
+</p>
+
+---
+
+## 🌟 Features
+- **True Photorealism:** Uses fixed tripod photographs of your actual home instead of 3D renders.
+- **Additive Lighting Layering:** Powered by CSS `mix-blend-mode: screen` for realistic light blending.
+- **Fully Responsive:** Designed using CSS `clamp()` functions to adapt seamlessly to tablets, smartphones, and desktop screens.

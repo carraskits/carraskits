@@ -6,8 +6,8 @@ On my channel, I explain realistic home automation projects, local integrations 
 
 ---
 
-<p> <align="center">
-  <img src="demo.gif" alt="Método Carraskits Demo" width="100%" style="border-radius: 10px;">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/carraskits/dashboard-fotorrealista-ha/main/demo.gif" alt="Método Carraskits Demo" width="100%" style="border-radius: 10px;">
 </p>
 
 ---

@@ -3,7 +3,9 @@
 Hi! I'm **Erick**, content creator at **Carraskits**. Higher technician in security systems, sound, telecommunications, and IT.
 
 On my channel, I explain realistic home automation projects, local integrations in **Home Assistant (HAOS)**, and an innovative, proprietary method to create **Photorealistic & Responsive Dashboards in 5 minutes**.
-
+<p align="center">
+  <img src="gif github.gif" alt="Carraskits Photorealistic HA Dashboard" width="100%" style="border-radius: 10px;">
+</p>
 ---
 
 ### 🚀 The Ultimate Dashboard Method

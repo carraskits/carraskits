@@ -12,14 +12,14 @@ On my channel, I explain realistic home automation projects, local integrations 
 
 ---
 
-### 🚀 The Ultimate Dashboard Method
+# 🚀 The Ultimate Dashboard Method
 - 📸 **Real tripod photography:** Lighting changes in 5 minutes (say goodbye to complex 3D modeling!).
 - 📱 **3-in-1 Responsive Layout:** Designed and optimized for wall tablets and mobile phones.
 - ⚡ **Lightweight performance:** Zero lag with the perfect visual simplicity.
 
 ---
 
-### 🌐 My Networks & Community
+## 🌐 My Networks & Community
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@carraskits)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Carraskits)
@@ -40,7 +40,7 @@ On my channel, I explain realistic home automation projects, local integrations 
   <img src="https://raw.githubusercontent.com/carraskits/dashboard-fotorrealista-ha/main/RESPONSIVEDASHBOARD.gif" alt="Responsive Multi-Room Dashboard" width="49%">
 </p>
 
-### 🎥 Real-Time 2-Minute Workflow Demo
+#### 🎥 Real-Time 2-Minute Workflow Demo
 
 👉 **[Watch the full 2-minute setup video on Reddit](https://www.reddit.com/r/homeassistant/s/G740lnIf4x)**
 # 🏠 Home Assistant Photorealistic Dashboard — Método Carraskits
@@ -56,7 +56,18 @@ On my channel, I explain realistic home automation projects, local integrations 
 
 ---
 
-## 🌟 Features
+#### 🌟 Features
 - **True Photorealism:** Uses fixed tripod photographs of your actual home instead of 3D renders.
 - **Additive Lighting Layering:** Powered by CSS `mix-blend-mode: screen` for realistic light blending.
 - **Fully Responsive:** Designed using CSS `clamp()` functions to adapt seamlessly to tablets, smartphones, and desktop screens.
+
+---
+
+##### 📜 Intellectual Property & Copyright Notice
+
+**Photorealistic Interactive Dashboard Methodology for Home Assistant**  
+© 2026 Erick Carrasco Gabarrón (**Carraskits | Conectando Mundos**). All rights reserved.
+
+* **Author & Creator:** Erick Carrasco Gabarrón (Carraskits)
+* **Official Registry:** Registered under the Intellectual Property Register (Spain) / Priority Timestamp Proof.
+* **License & Usage:** This repository and associated methodology are shared publicly for personal and educational use. Any commercial distribution, reproduction, or derivative creation of this photorealistic design methodology requires explicit attribution and credit to the original author.

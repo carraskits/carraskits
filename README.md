@@ -35,6 +35,10 @@ On my channel, I explain realistic home automation projects, local integrations 
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Carraskits/dashboard-fotorrealista-ha/main/demo2dashboard.gif" alt="Home Assistant Photorealistic Dashboard Showcase" width="100%">
+</p>
+
 ### 🎥 Real-Time 2-Minute Workflow Demo
 
 👉 **[Watch the full 2-minute setup video on Reddit](https://www.reddit.com/r/homeassistant/s/G740lnIf4x)**

@@ -1,4 +1,10 @@
 # 🛠️ Carraskits | Connecting Worlds 🌍⚡
+<!-- GitHub Sponsors Badge & Button -->
+<p align="center">
+  <a href="https://github.com/sponsors/carraskits">
+    <img src="https://img.shields.io/badge/Sponsor-Carraskits-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor Carraskits" />
+  </a>
+</p>
 
 Hi! I'm **Eric**, content creator at **Carraskits**. Higher technician in security systems, sound, telecommunications, and IT.
 
@@ -16,14 +22,6 @@ On my channel, I explain realistic home automation projects, local integrations 
 - 📸 **Real tripod photography:** Lighting changes in 5 minutes (say goodbye to complex 3D modeling!).
 - 📱 **3-in-1 Responsive Layout:** Designed and optimized for wall tablets and mobile phones.
 - ⚡ **Lightweight performance:** Zero lag with the perfect visual simplicity.
-
----
-<!-- GitHub Sponsors Badge & Button -->
-<p align="center">
-  <a href="https://github.com/sponsors/carraskits">
-    <img src="https://img.shields.io/badge/Sponsor-Carraskits-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor Carraskits" />
-  </a>
-</p>
 
 ---
 

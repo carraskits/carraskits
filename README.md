@@ -84,10 +84,9 @@ Este trabajo, código fuente, metodología y arquitectura de interfaz están pro
 
 <p align="center">
   <a href="https://www.safecreative.org/work/2610227421052" target="_blank">
-    <img src="LICENSE.png" alt="Registro Safe Creative - Carraskits" width="220" />
+    <img src="./LICENSE.png" alt="Registro Safe Creative - Carraskits" width="220" />
   </a>
   <br>
   <sub><i>Escanear o hacer clic en el código QR para ver el certificado de registro de propiedad intelectual.</i></sub>
 </p>
-
 ---

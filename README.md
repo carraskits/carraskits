@@ -82,5 +82,5 @@ Este trabajo, código fuente, metodología y arquitectura de interfaz están pro
 * **Uso permitido:** Libre para uso personal, aprendizaje y proyectos domésticos no comerciales.
 * **Restricción:** Queda estrictamente prohibida la comercialización, redistribución lucrativa o uso comercial de este framework sin autorización explícita por escrito del autor.
 
-[![Registro Safe Creative - Carraskits](LICENSE.png)](https://www.safecreative.org/work/2610227421052)
+[![Registro Safe Creative - Carraskits]([LICENSE.png](https://github.com/carraskits/dashboard-fotorrealista-ha/blob/main/LICENSE.png?raw=true))](https://www.safecreative.org/work/2610227421052)
 *Escanear o hacer clic en el código QR para ver el certificado de registro de propiedad intelectual.*

@@ -82,11 +82,5 @@ Este trabajo, código fuente, metodología y arquitectura de interfaz están pro
 * **Uso permitido:** Libre para uso personal, aprendizaje y proyectos domésticos no comerciales.
 * **Restricción:** Queda estrictamente prohibida la comercialización, redistribución lucrativa o uso comercial de este framework sin autorización explícita por escrito del autor.
 
-<p align="center">
-  <a href="https://www.safecreative.org/work/2610227421052" target="_blank">
-    <img src="./LICENSE.png" alt="Registro Safe Creative - Carraskits" width="220" />
-  </a>
-  <br>
-  <sub><i>Escanear o hacer clic en el código QR para ver el certificado de registro de propiedad intelectual.</i></sub>
-</p>
----
+[![Registro Safe Creative - Carraskits](./LICENSE.png)](https://www.safecreative.org/work/2610227421052)
+*Escanear o hacer clic en el código QR para ver el certificado de registro de propiedad intelectual.*

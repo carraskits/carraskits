@@ -1,6 +1,6 @@
 # 🛠️ Carraskits | Connecting Worlds 🌍⚡
 
-Hi! I'm **Erick**, content creator at **Carraskits**. Higher technician in security systems, sound, telecommunications, and IT.
+Hi! I'm **Eric**, content creator at **Carraskits**. Higher technician in security systems, sound, telecommunications, and IT.
 
 On my channel, I explain realistic home automation projects, local integrations in **Home Assistant (HAOS)**, and an innovative, proprietary method to create **Photorealistic & Responsive Dashboards in 5 minutes**.
 
@@ -66,9 +66,9 @@ On my channel, I explain realistic home automation projects, local integrations 
 ##### 📜 Intellectual Property & Copyright Notice
 
 **Photorealistic Interactive Dashboard Methodology for Home Assistant**  
-© 2026 Erick Carrasco Gabarrón (**Carraskits | Conectando Mundos**). All rights reserved.
+© 2026 Eric Carrasco Gabarrón (**Carraskits | Conectando Mundos**). All rights reserved.
 
-* **Author & Creator:** Erick Carrasco Gabarrón (Carraskits)
+* **Author & Creator:** Eric Carrasco Gabarrón (Carraskits)
 * **Official Registry:** Registered under the Intellectual Property Register (Spain) / Priority Timestamp Proof.
 * **License & Usage:** This repository and associated methodology are shared publicly for personal and educational use. Any commercial distribution, reproduction, or derivative creation of this photorealistic design methodology requires explicit attribution and credit to the original author.
 ---

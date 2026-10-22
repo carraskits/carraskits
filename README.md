@@ -18,6 +18,14 @@ On my channel, I explain realistic home automation projects, local integrations 
 - ⚡ **Lightweight performance:** Zero lag with the perfect visual simplicity.
 
 ---
+<!-- GitHub Sponsors Badge & Button -->
+<p align="center">
+  <a href="https://github.com/sponsors/carraskits">
+    <img src="https://img.shields.io/badge/Sponsor-Carraskits-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor Carraskits" />
+  </a>
+</p>
+
+---
 
 ## 🌐 My Networks & Community
 

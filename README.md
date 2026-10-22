@@ -71,3 +71,23 @@ On my channel, I explain realistic home automation projects, local integrations 
 * **Author & Creator:** Erick Carrasco Gabarrón (Carraskits)
 * **Official Registry:** Registered under the Intellectual Property Register (Spain) / Priority Timestamp Proof.
 * **License & Usage:** This repository and associated methodology are shared publicly for personal and educational use. Any commercial distribution, reproduction, or derivative creation of this photorealistic design methodology requires explicit attribution and credit to the original author.
+---
+
+## 🛡️ Propiedad Intelectual y Licencia
+
+Este trabajo, código fuente, metodología y arquitectura de interfaz están protegidos legalmente y registrados bajo autoría de **Eric Carrasco Gabarrón (Carraskits)**.
+
+* **Licencia:** [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
+* **Identificador de Registro (Safe Creative):** `2610227421052`
+* **Uso permitido:** Libre para uso personal, aprendizaje y proyectos domésticos no comerciales.
+* **Restricción:** Queda estrictamente prohibida la comercialización, redistribución lucrativa o uso comercial de este framework sin autorización explícita por escrito del autor.
+
+<p align="center">
+  <a href="https://www.safecreative.org/work/2610227421052" target="_blank">
+    <img src="LICENSE.png" alt="Registro Safe Creative - Carraskits" width="220" />
+  </a>
+  <br>
+  <sub><i>Escanear o hacer clic en el código QR para ver el certificado de registro de propiedad intelectual.</i></sub>
+</p>
+
+---

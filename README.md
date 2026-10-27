@@ -1,4 +1,4 @@
-# 🛠️ Carraskits | Connecting Worlds 🌍⚡
+ 🛠️ Carraskits | Connecting Worlds 🌍⚡
 <!-- GitHub Sponsors Badge & Button -->
 <p align="center">
   <a href="https://github.com/sponsors/carraskits">
@@ -24,8 +24,6 @@ I document an innovative method to build *Photorealistic & Responsive Dashboards
 - 📱 *3-in-1 Responsive Layout:* Designed and optimized for wall tablets and mobile phones.
 - ⚡ *Lightweight performance:* Zero lag and complete visual simplicity.
 
----
- certificado de registro de propiedad intelectual.
 ---
 
 ## 🌐 My Networks & Community

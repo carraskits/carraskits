@@ -25,15 +25,7 @@ I document an innovative method to build **Photorealistic & Responsive Dashboard
 - ⚡ **Lightweight performance:** Zero lag and complete visual simplicity.
 
 ---
-
-<p align="center">
-  <a href="https://www.safecreative.org/work/2610227421052" target="_blank">
-    <img src="https://raw.githubusercontent.com/carraskits/dashboard-fotorrealista-ha/main/LICENSE.png" alt="Registro Safe Creative - Carraskits" width="220" />
-  </a>
-  <br>
-  <sub><i>Escanear o hacer clic en el código QR para ver el certificado de registro de propiedad intelectual.</i></sub>
-</p>
-
+ certificado de registro de propiedad intelectual.
 ---
 
 ## 🌐 My Networks & Community

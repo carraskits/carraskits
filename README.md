@@ -21,7 +21,7 @@ I document an innovative method to build *Photorealistic & Responsive Dashboards
 # 🚀 The Ultimate Dashboard Method
 - 📸 *Real tripod photography:* Lighting changes captured sequentially (say goodbye to complex 3D modeling!).
 - ⏱️ *Optimized workflow:* Approximately 5 hours of work per room to complete planning, photography, processing, and YAML configuration.
-- 📱 *3-in-1 Responsive Layout:* Designed and optimized for wall tablets and mobile phones.
+- 📱 *3-in-1 Responsive Layout:* Designed and optimized for PC, wall tablets and mobile phones.
 - ⚡ *Lightweight performance:* Zero lag and complete visual simplicity.
 
 ---

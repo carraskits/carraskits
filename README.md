@@ -26,15 +26,6 @@ I document an innovative method to build **Photorealistic & Responsive Dashboard
 
 ---
 
-## 🛡️ Propiedad Intelectual y Licencia
-
-Este trabajo, código fuente, metodología y arquitectura de interfaz están protegidos legalmente y registrados bajo autoría de **Eric Carrasco Gabarrón (Carraskits)**[cite: 7].
-
-- **Licencia:** [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)[cite: 7]
-- **Identificador de Registro (Safe Creative):** `2610227421052`[cite: 7]
-- **Uso permitido:** Libre para uso personal, aprendizaje y proyectos domésticos no comerciales[cite: 5, 7].
-- **Restricción:** Queda estrictamente prohibida la comercialización, redistribución lucrativa o uso comercial de este framework sin autorización explícita por escrito del autor[cite: 7].
-
 <p align="center">
   <a href="https://www.safecreative.org/work/2610227421052" target="_blank">
     <img src="https://raw.githubusercontent.com/carraskits/dashboard-fotorrealista-ha/main/LICENSE.png" alt="Registro Safe Creative - Carraskits" width="220" />

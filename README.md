@@ -6,9 +6,9 @@
   </a>
 </p>
 
-Hi! I'm **Eric Carrasco Gabarrón**, creator of **Carraskits**[cite: 5]. Higher technician in security systems, sound, telecommunications, and IT.
+Hi! I'm *Eric Carrasco Gabarrón*, creator of *Carraskits*. Higher technician in security systems, sound, telecommunications, and IT.
 
-I document an innovative method to build **Photorealistic & Responsive Dashboards in Home Assistant (HAOS)** using real photos of your own home, with no 3D modeling[cite: 5]. Implementing each room takes around **5 hours of dedicated work** with experience.
+I document an innovative method to build *Photorealistic & Responsive Dashboards in Home Assistant (HAOS)* using real photos of your own home, with no 3D modeling. Implementing each room takes around *5 hours of dedicated work* with experience.
 
 ---
 
@@ -19,10 +19,10 @@ I document an innovative method to build **Photorealistic & Responsive Dashboard
 ---
 
 # 🚀 The Ultimate Dashboard Method
-- 📸 **Real tripod photography:** Lighting changes captured sequentially (say goodbye to complex 3D modeling!)[cite: 5, 7].
-- ⏱️ **Optimized workflow:** Approximately 5 hours of work per room to complete planning, photography, processing, and YAML configuration.
-- 📱 **3-in-1 Responsive Layout:** Designed and optimized for wall tablets and mobile phones[cite: 6].
-- ⚡ **Lightweight performance:** Zero lag and complete visual simplicity.
+- 📸 *Real tripod photography:* Lighting changes captured sequentially (say goodbye to complex 3D modeling!).
+- ⏱️ *Optimized workflow:* Approximately 5 hours of work per room to complete planning, photography, processing, and YAML configuration.
+- 📱 *3-in-1 Responsive Layout:* Designed and optimized for wall tablets and mobile phones.
+- ⚡ *Lightweight performance:* Zero lag and complete visual simplicity.
 
 ---
  certificado de registro de propiedad intelectual.
@@ -38,6 +38,6 @@ I document an innovative method to build **Photorealistic & Responsive Dashboard
 ---
 
 ### 📺 YouTube Channel
-👉 **[Watch tutorials and guides on YouTube](https://youtube.com/@carraskits)**
+👉 *[Watch tutorials and guides on YouTube](https://youtube.com/@carraskits)*
 
 *"🌍 There is only one Planet Earth, but everyone lives in their own World 🌍"*
